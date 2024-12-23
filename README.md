@@ -11,6 +11,13 @@ Este é um bot para Discord que permite listar e criar eventos diretamente no Go
 
 ---
 
+## Preview do funcionamento
+
+![](.\preview\preview.gif)
+
+---
+
+
 ## Requisitos
 
 ### Tecnologias Utilizadas
