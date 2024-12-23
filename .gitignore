@@ -1,0 +1,7 @@
+.venv
+.env
+__pycache__
+
+#arquivos sensiveis
+credentials.json
+token.json
