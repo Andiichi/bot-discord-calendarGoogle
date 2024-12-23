@@ -42,6 +42,12 @@ Instale as dependências necessárias com o seguinte comando:
 pip install -r requirements.txt
 ```
 
+### Crie uma pasta 
+```
+na raiz do projeto chamada: credenciais
+```
+
+
 ### Configuração do Ambiente
 
 1. Crie um arquivo `.env` na raiz do projeto com as seguintes variáveis:
